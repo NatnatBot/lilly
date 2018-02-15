@@ -242,13 +242,13 @@
     };
 
     var botCreator = 'Yemasthui';
-    var botMaintainer = 'Benzi';
-    var botCreatorIDs = [3851534, 4105209];
+    var botMaintainer = 'NextExit';
+    var botCreatorIDs = [9835492];
 
     var basicBot = {
         version: '2.12.0',
         status: false,
-        name: 'basicBot',
+        name: 'Lilly',
         loggedInID: null,
         scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
         cmdLink: 'https://nextexitplugdj.weebly.com/lilly.html',
