@@ -259,8 +259,8 @@
         retrieveFromStorage: retrieveFromStorage,
         settings: {
             botName: 'Lilly',
-            language: 'english',
-            chatLink: 'https://rawgit.com/basicBot/source/master/lang/en.json',
+            language: 'Serbian',
+            chatLink: 'https://github.com/NatnatBot/lilly/blob/master/lang/sr.json',
             scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
