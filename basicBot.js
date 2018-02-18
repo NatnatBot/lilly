@@ -260,7 +260,7 @@
         settings: {
             botName: 'Lilly',
             language: 'Serbian',
-            chatLink: 'https://github.com/NatnatBot/lilly/blob/master/lang/sr.json',
+            chatLink: 'https://rawgit.com/NatnatBot/lilly/master/lang/sr.json',
             scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
