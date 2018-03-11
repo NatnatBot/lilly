@@ -252,7 +252,7 @@
         loggedInID: null,
         scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
         cmdLink: 'https://nextexitplugdj.weebly.com/lilly.html',
-        chatLink: 'https://rawgit.com/basicBot/source/master/lang/en.json',
+        chatLink: 'https://rawgit.com/NatnatBot/lilly/master/lang/sr.json',
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
